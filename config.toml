@@ -1,0 +1,14 @@
+[theme]
+base = "light"
+primaryColor = "#2463eb"
+font = "sans serif"
+
+[server]
+headless = true
+enableCORS = false
+
+[client]
+toolbarMode = "minimal"
+
+[browser]
+gatherUsageStats = false
