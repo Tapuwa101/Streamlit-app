@@ -1,0 +1,14 @@
+IPython
+esda
+folium
+geopandas
+h3
+libpysal
+matplotlib
+numpy
+pandas
+pymannkendall
+seaborn
+shapely
+streamlit
+tqdm
